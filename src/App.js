@@ -12,8 +12,6 @@ class App extends Component {
     return (
       <div id="app">
           <BlogPost />
-          <Comment commentText={"Tell my wifi love her"}/>
-          <Comment commentText={"Ken M was here"}/>
           <div id="seperator"></div>
           <div className="wrapper">
             <ColorBox opacity={1} />
